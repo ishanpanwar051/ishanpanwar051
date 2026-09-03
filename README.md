@@ -1,42 +1,39 @@
-<!-- 🟢 ANIMATED MATRIX TERMINAL BANNER -->
+<!-- 🟢 WORKING MATRIX / TECH BANNER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="220px" alt="Matrix Banner" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200px" alt="Matrix Banner" />
 </p>
 
-<!-- ⚡ DYNAMIC NEON TYPING TITLE -->
+<!-- ⚡ FIXED TYPING ANIMATION (NO TEXT CUTTING) -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Panwar;AI+Engineer+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Agentic+Systems+%26+Smart+Apps+%F0%9F%A4%96;Problem+Solver+%7C+C%2B%2B+%7C+Python+%7C+React+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Panwar;AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Agentic+AI+Systems+%F0%9F%A4%96;C%2B%2B+%7C+Python+%7C+FastAPI+%7C+React+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ishanpanwar051">
-    <img src="https://komarev.com/ghpvc/?username=ishanpanwar051&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ishanpanwar051&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ishanpanwar051?label=Followers&style=flat-square&color=8b5cf6&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20For-SDE%20%2F%20AI%20Roles-22c55e?style=flat-square" alt="Status" />
 </p>
 
 <br/>
 
-<!-- 👨‍💻 ABOUT ME + CARTOON CODER GIF -->
+<!-- 👨‍💻 ABOUT ME + WORKING DEVELOPER GIF -->
 <table>
   <tr>
-    <td width="63%" valign="top">
+    <td width="60%" valign="top">
       <h3>🚀 About Me</h3>
       <ul>
-        <li>🔭 <b>Currently Building:</b> <a href="https://github.com/ishanpanwar051/Agentic-code-reviewer">Agentic AI Code Reviewer</a> & Intelligent Multi-Agent Systems</li>
+        <li>🔭 <b>Currently Building:</b> <a href="https://github.com/ishanpanwar051/Agentic-code-reviewer">Agentic AI Code Reviewer</a> & Multi-Agent Systems</li>
         <li>🌱 <b>Exploring & Upskilling:</b> LLM Evaluation, System Design, LangChain & Microservices</li>
         <li>💻 <b>Core Expertise:</b> C++, Python, FastAPI, React, DSA & GenAI Workflows</li>
         <li>💬 <b>Ask me about:</b> Full-Stack Web Dev, LLM Guardrails, Backend APIs, Git & Docker</li>
         <li>📫 <b>Contact:</b> <a href="mailto:ishanpanwar051@gmail.com">ishanpanwar051@gmail.com</a></li>
-        <li>📄 <b>Resume:</b> <a href="https://your-resume-link.com" target="_blank">Click here to view Resume</a></li>
         <li>⚡ <b>Fun Fact:</b> <i>"I debug at 3 AM. 99% of the time, the bug was something I was 100% sure was correct!"</i> 😅</li>
       </ul>
     </td>
-    <td width="37%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-472a-b0b3-0f181ca719b0.gif" width="100%" alt="Developer Cartoon GIF" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Developer Working GIF" />
     </td>
   </tr>
 </table>
@@ -54,9 +51,6 @@
   </a>
   <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="mailto:ishanpanwar051@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
