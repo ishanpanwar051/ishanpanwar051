@@ -1,9 +1,9 @@
-<!-- 🟢 WORKING MATRIX / TECH BANNER -->
+<!-- 🟢 MATRIX TERMINAL BANNER -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200px" alt="Matrix Banner" />
 </p>
 
-<!-- ⚡ FIXED TYPING ANIMATION (NO TEXT CUTTING) -->
+<!-- ⚡ NEON TYPING TITLE -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Panwar;AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Agentic+AI+Systems+%F0%9F%A4%96;C%2B%2B+%7C+Python+%7C+FastAPI+%7C+React+%F0%9F%92%BB" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- 👨‍💻 ABOUT ME + WORKING DEVELOPER GIF -->
+<!-- 👨‍💻 ABOUT ME + DEVELOPER GIF -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -73,18 +73,17 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/> </a>
+  <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/> </a>
 </p>
 
 <br/>
 
-<!-- 🔥 GITHUB STATS & STREAK DASHBOARD -->
+<!-- 🔥 GITHUB ACTIVITY & STREAK -->
 <h3 align="left">📊 GitHub Activity & Streak:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanpanwar051&theme=tokyonight&hide_border=false" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanpanwar051&show_icons=true&theme=tokyonight&hide_border=false" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanpanwar051&theme=tokyonight&hide_border=false" width="90%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpanwar051&layout=compact&theme=tokyonight&hide_border=false" width="55%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanpanwar051&theme=tokyo-night&area=true&hide_border=false" width="90%" alt="Activity Graph" />
 </p>
