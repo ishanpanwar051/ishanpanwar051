@@ -1,4 +1,4 @@
-<!-- 🟢 MATRIX TERMINAL BANNER -->
+<!-- 🟢 ANIMATED MATRIX TERMINAL BANNER -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200px" alt="Matrix Banner" />
 </p>
@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- 👨‍💻 ABOUT ME + DEVELOPER GIF -->
+<!-- 👨‍💻 ABOUT ME + WORKING DEVELOPER GIF -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -78,12 +78,8 @@
 
 <br/>
 
-<!-- 🔥 GITHUB ACTIVITY & STREAK -->
+<!-- 🔥 GITHUB STREAK CARD -->
 <h3 align="left">📊 GitHub Activity & Streak:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanpanwar051&theme=tokyonight&hide_border=false" width="90%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanpanwar051&theme=tokyo-night&area=true&hide_border=false" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanpanwar051&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
 </p>
